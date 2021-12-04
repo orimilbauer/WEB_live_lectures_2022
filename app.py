@@ -1,1 +1,3 @@
-if __name__='main'
+
+from flask import flask
+app=flask(__name__)
